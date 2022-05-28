@@ -13,6 +13,6 @@ Buzzer igra je igra u kojoj testiraš svoju spretnost. Igrač ima upravljač koj
 
 # Instalacija
 ```(Podrazumijeva se da imate instaliran ispravan OS na Raspberry Pi te da imate instalirane potrebne programe i servise)```
-1. Spojiti schemu po slici `buzzer_game_scheme.png`
+1. Spojiti schemu prema slici `buzzer_game_scheme.png`
 2. Preuzeti datoteke `main.py` i `modules.py`
 3. Pokrenuti datoteku `main.py` na Raspberry Pi uređaju
