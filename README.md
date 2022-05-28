@@ -1,5 +1,5 @@
 # Buzzer Game
-Buzzer igra je igra u kojoj testiraš svoju spretnost. Igrač ima svoj upravljač kojim mora proći između žice tako da je ne dodirne. U slučaju kontakta upravljača sa žicom, igraču se smanjuje broj njegovih života. Cilj igre je da najspretniji igrač pobijedi.
+Buzzer igra je igra u kojoj testiraš svoju spretnost. Igrač ima upravljač kojim mora proći između žice tako da ju ne dodirne. U slučaju kontakta upravljača sa žicom, igraču se smanjuje broj njegovih života. Cilj igre je da najspretniji igrač pobijedi.
 
 # Potrebno
 1. Raspberry Pi model B ili novije verzije
